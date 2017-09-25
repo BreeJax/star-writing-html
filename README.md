@@ -1,6 +1,6 @@
 # README
 
-This document contains some basic instructions for how to interact with this project
+This document contains the instructions given to us on how to create this project. 
 
 ## Solution Files
 This project doesn't include solution files.
